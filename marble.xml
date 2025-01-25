@@ -11,7 +11,7 @@
 <project path="vendor/bcr" name="Chaitanyakm/vendor_bcr" remote="gith" revision="main" />
 <project path="vendor/xiaomi/sm8450-common" name="Chaitanyakm/vendor_xiaomi_sm8450-common" remote="gith" revision="fourteen" />
 <project path="device/xiaomi/sepolicy" name="AOSPA/android_device_xiaomi_sepolicy" remote="gith" revision="vauxite" />
-<project path="vendor/xiaomi/miuicamera-marble" name="vendor_xiaomi_miuicamera-marble" remote="glabb" revision="fourteen" />
+<project path="vendor/xiaomi/miuicamera-marble" name="Chaitanyakm/vendor_xiaomi_miuicamera-marble" remote="glabb" revision="fourteen" />
 <project path="hardware/xiaomi" name="Evolution-X-Devices/hardware_xiaomi" remote="gith" revision="vic" />
 <project path="kernel/xiaomi/sm8450" name="Evolution-X-Devices/kernel_xiaomi_sm8450" remote="gith" revision="vic" />
 <project path="kernel/xiaomi/sm8450-devicetrees" name="Evolution-X-Devices/kernel_xiaomi_sm8450-devicetrees" remote="gith" revision="vic" />
